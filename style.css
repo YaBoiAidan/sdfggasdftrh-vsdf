@@ -1,0 +1,37 @@
+.heading
+{
+font-size: 20px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 38px rgb(32, 32, 32);
+}
+
+.note
+{
+font-size: 15px;
+color: black;
+}
+
+#copyright_div
+{
+bottom: 0;
+position: fixed;
+width: 100%;
+left: 0%;
+color: black;
+line-height: 2;
+font-size: 14px;
+}
+
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 38px rgb(39, 39, 39);
+}
+
+video
+{
+    margin-left: 2%;
+    margin-top:  4%;
+}
